@@ -32,7 +32,7 @@ Hello, you can call me `Teguh Sabila`. I’m `18 years old`. My house is in `Wes
 ## Feel Free To Reach me 📫: 
 
 [![Gmail Badge](https://img.shields.io/badge/-teguhsabila4@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:teguhsabila4@gmail.com)](mailto:teguhsabila4@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-teguhs11_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/teguhs11_/)](https://www.instagram.com/teguhs11_/) 
+[![Instagram Badge](https://img.shields.io/badge/-teguhs11_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/sabilateguh.ig/)](https://www.instagram.com/sabilateguh.ig/) 
 [![Linkedin Badge](https://img.shields.io/badge/-teguhsabila-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teguh-sabila-563430218)](https://www.linkedin.com/in/teguh-sabila-563430218) 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&logo=whatsapp&logoColor=white)](https://wa.me/6289530639515) 
 [![Gitlab Badge](https://img.shields.io/badge/-teguhsbl-white?style=flat-roundedrectangle&logo=Gitlab&link=https://gitlab.com/teguhsbl/)](https://gitlab.com/teguhsbl) 
